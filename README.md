@@ -44,7 +44,7 @@ engineer_t me = {
 
 <br />
 
-## ⟁ &nbsp; ARSENAL
+## ⟁ &nbsp; SKILLS
 
 <div align="center">
 
