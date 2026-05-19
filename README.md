@@ -20,8 +20,6 @@
 <br /><br />
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-FF1493?style=for-the-badge&labelColor=1A0011" />
-<img src="https://img.shields.io/badge/LOCATION-CLASSIFIED-FF6EC7?style=for-the-badge&labelColor=1A0011" />
-<img src="https://img.shields.io/badge/CAFFEINE-MAX-FFB6E1?style=for-the-badge&labelColor=1A0011" />
 
 </div>
 
