@@ -87,31 +87,6 @@ engineer_t me = {
 
 <br />
 
-## ◢◤ &nbsp; TELEMETRY
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreu-APL&show_icons=true&hide_border=true&bg_color=1A0011&title_color=FF1493&icon_color=FF6EC7&text_color=FFB6E1&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreu-APL&layout=compact&hide_border=true&bg_color=1A0011&title_color=FF1493&text_color=FFB6E1&langs_count=8" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreu-APL&hide_border=true&background=1A0011&ring=FF1493&fire=FF6EC7&currStreakLabel=FF1493&sideLabels=FFB6E1&dates=FFB6E1&stroke=FF1493&currStreakNum=FFB6E1&sideNums=FFB6E1" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreu-APL&bg_color=1A0011&color=FF1493&line=FF6EC7&point=FFB6E1&area=true&hide_border=true" width="98%" />
-
-</div>
-
-<br />
-
-
-<img src="https://komarev.com/ghpvc/?username=Andreu-APL&label=VISITORS&color=FF1493&style=for-the-badge" />
-
-</div>
-
-<br />
 
 ```bash
 $ thanks for stopping by.
