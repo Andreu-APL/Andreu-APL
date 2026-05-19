@@ -1,9 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  Drop this file as README.md in a repo named exactly: Andreu-APL ║
-  ║  GitHub auto-renders it on your profile.                         ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
 
 <div align="center">
 
@@ -31,7 +25,6 @@
 /* ─────────────────────────────────────────────────────────────── */
 
 #include <robotics.h>
-#include <coffee.h>
 
 typedef struct {
     const char *name;
@@ -47,7 +40,6 @@ engineer_t me = {
     .curiosity = INT_MAX
 };
 
-/* Currently: turning electrons into motion. */
 ```
 
 <br />
@@ -114,18 +106,6 @@ engineer_t me = {
 
 <br />
 
-## ▲ &nbsp; CURRENTLY
-
-```yaml
-location:      [ lab bench, between two oscilloscopes ]
-building:      "EMBEDDED-C-SCHOOL-WORK → github.com/Andreu-APL/EMBEDDEED-C-SCHOOL-WORK"
-learning:      [ kalman filters, RTL design, real-time scheduling ]
-breaking:      [ a perfectly good dev board, probably ]
-ask_me_about:  [ embedded C, FPGA debugging, why ROS2 made me cry ]
-```
-
-<br />
-
 ## ⌬ &nbsp; FREQUENCIES
 
 <div align="center">
@@ -146,7 +126,7 @@ ask_me_about:  [ embedded C, FPGA debugging, why ROS2 made me cry ]
 <br />
 
 ```bash
-$ echo "thanks for stopping by — now go build something." && exit 0
+$ thanks for stopping by.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:3D0022,100:1A0011&height=100&section=footer" />
