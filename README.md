@@ -106,18 +106,6 @@ engineer_t me = {
 
 <br />
 
-## ⌬ &nbsp; FREQUENCIES
-
-<div align="center">
-
-<a href="https://github.com/Andreu-APL">
-  <img src="https://img.shields.io/badge/GitHub-1A0011?style=for-the-badge&logo=github&logoColor=FF1493" />
-</a>
-<a href="https://github.com/Andreu-APL/EMBEDDEED-C-SCHOOL-WORK">
-  <img src="https://img.shields.io/badge/Current_Project-1A0011?style=for-the-badge&logo=googlecolab&logoColor=FF1493" />
-</a>
-
-<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=Andreu-APL&label=VISITORS&color=FF1493&style=for-the-badge" />
 
